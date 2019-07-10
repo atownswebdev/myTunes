@@ -44,7 +44,7 @@ a {
 
 
 section#entertainment {
-  background: url(../img/bg-image3.jpg) no-repeat top/cover;
+  background: url(../img/bg-image3.jpg) no-repeat center/cover;
   padding: 10rem 0;
   color: #ccc;
 }
